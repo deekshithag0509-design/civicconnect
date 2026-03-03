@@ -1,0 +1,7 @@
+{
+  "name": "CivicConnect",
+  "description": "A modern civic engagement platform connecting citizens and politicians for better governance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
